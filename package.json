@@ -16,6 +16,7 @@
     "postinstall": "npx simple-git-hooks"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^6.3.0",
     "@astrojs/netlify": "2.0.0",
     "@astrojs/node": "^5.1.1",
     "@astrojs/solid-js": "^2.1.0",
@@ -36,7 +37,7 @@
     "@zag-js/toast": "^0.9.2",
     "@zag-js/toggle": "^0.9.2",
     "@zag-js/tooltip": "^0.9.2",
-    "astro": "^2.2.0",
+    "astro": "^2.5.0",
     "bumpp": "^9.1.0",
     "destr": "^1.2.2",
     "eslint": "^8.37.0",
